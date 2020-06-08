@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+.page_center{
+	text-align: center;
+}
+.button_1{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	padding: 30px 180px;
+}
+.button_2{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	padding: 30px 196px;
+}
+.textbox{
+	background-color: #ffffff;;
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	padding: 12px;
+}
+.selectbox{
+	width: 102px;
+	padding: 10px;
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+.button_sign{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	padding: 13px 35px;
+}
+span.font{
+	font-size: 16px;
+}
+span.emsg{
+	color: #ff0000;
+}
+span.smsg{
+	color: #0000ff;
+}
