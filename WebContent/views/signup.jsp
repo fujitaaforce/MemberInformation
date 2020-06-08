@@ -179,7 +179,7 @@
   </p>
 
   <!-- 登録ボタン -->
-		<a href ="./menu.html"><input type = "button" value = "戻る" class = button_sign ></a>　　　<input type="submit" value="登録" class = button_sign>
+		<a href ="./index.html"><input type = "button" value = "戻る" class = button_sign ></a>　　　<input type="submit" value="登録" class = button_sign>
 </form>
 </div>
 </body>
