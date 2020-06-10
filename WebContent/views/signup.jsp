@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <link href = "../css/menustyle.css" rel = "stylesheet">
 <link href = "./css/menustyle.css" rel = "stylesheet">
-<title>新規会員登録</title>
+<title>会員情報新規登録</title>
 </head>
 <body>
 <div class = page_center>

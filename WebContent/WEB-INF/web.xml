@@ -18,5 +18,29 @@
     <servlet-name>SignUpServlet</servlet-name>
     <url-pattern>/SignUp</url-pattern>
   </servlet-mapping>
+  <servlet>
+  	<servlet-name>SelectServlet</servlet-name>
+  	<servlet-class>jp.co.aforce.servlets.SelectServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>SelectServlet</servlet-name>
+  	<url-pattern>/Select</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  	<servlet-name>UpdateServlet</servlet-name>
+  	<servlet-class>jp.co.aforce.servlets.UpdateServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>UpdateServlet</servlet-name>
+  	<url-pattern>/Update</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  	<servlet-name>DeleteServlet</servlet-name>
+  	<servlet-class>jp.co.aforce.servlets.DeleteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>DeleteServlet</servlet-name>
+  	<url-pattern>/Delete</url-pattern>
+  </servlet-mapping>
 
 </web-app>
