@@ -18,11 +18,11 @@
         <input type="submit" value="表示" name = update formaction = "/MemberInformation/Select"class = button_sign>
   </p>
   <p>
-  		<span class = emsg>　${requestScope.memberNoBeanBean.emsg}</span>
+  		<span class = emsg>${requestScope.memberNoBean.emsg}</span>
   </p>
   <!-- 入力項目 -->
   <p>
-  		<span class = emsg>　${requestScope.updateBean.emsg}</span><span class = smsg>${requestScope.updateBean.success}　</span>
+  		<span class = emsg>${requestScope.updateBean.emsg}</span><span class = smsg>${requestScope.updateBean.success}</span>
   </p>
   <p>
         <span class = font>　　　名前　　　</span><input type="text" class = textbox name="name" size="30" value =${requestScope.memberInfo[0].name}>

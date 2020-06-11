@@ -16,7 +16,7 @@
 
   <!-- 入力項目 -->
   <p>
-  		<span class = emsg>　${requestScope.signUpBean.emsg}</span><span class = smsg>${requestScope.signUpBean.success}　</span>
+  		<span class = emsg>${requestScope.signUpBean.emsg}</span><span class = smsg>${requestScope.signUpBean.success}</span>
   </p>
   <p>
         <span class = font>　　　名前　　　</span><input type="text" class = textbox name="name" size="30">
